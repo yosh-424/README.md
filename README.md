@@ -73,9 +73,3 @@ I'm **Joshua Andre Tindoy**, with a flair for coding and database management ski
 </p>
 
 ---
-
-<div align="center">
-
-*"Crafting elegant solutions, one line of code at a time."*
-
-</div>
