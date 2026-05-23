@@ -59,7 +59,7 @@ I'm **Juan Dela Cruz**, with a flair for coding and database management skills. 
   <a href="linkedin.com/in/joshua-tindoy-b13290411" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:joshuaandretindoy26@gmail.com">
+  <a href="joshuaandretindoy26@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
