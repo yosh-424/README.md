@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm **Juan Dela Cruz**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the **BS Information Technology** program — and I haven't looked back since.
+I'm **Joshua Andre Tindoy**, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting efficient solutions. My journey in tech started when I took the **BS Information Technology** program — and I haven't looked back since.
 
 ---
 
