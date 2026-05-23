@@ -47,6 +47,8 @@ I'm **Juan Dela Cruz**, with a flair for coding and database management skills. 
 ### Databases
 <p>
   <img src="https://img.shields.io/badge/IBM%20DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM DB2"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
 ### Tools
@@ -55,6 +57,7 @@ I'm **Juan Dela Cruz**, with a flair for coding and database management skills. 
   <img src="https://img.shields.io/badge/Jaspersoft%20Studio-1D6F42?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAABUSURBVCiRY2RgYPj/n4GBgYGJgYGBgZGJgYGBiYmBgYGJiYGBgYmJgYGBiYmBgYGJiYGBgYmJgYGBiYmBgYGJiYGBgYmJgYGBiYmBgYGJiYH/AAAYCAQAFfRnggAAAABJRU5ErkJggg==&logoColor=white" alt="Jaspersoft Studio"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
 ---
