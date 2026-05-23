@@ -27,6 +27,10 @@ I'm **Juan Dela Cruz**, with a flair for coding and database management skills. 
 ## Certifications
 
 - [**NoSQL and DBaaS 101**](https://courses.cognitiveclass.ai/certificates/d1d620e81ba84dfa805c7f08366b9581#)
+- [**Introduction to Figma**](https://simpli-web.app.link/e/JfuasJX8m3b)
+- [**Design Thinking for Beginners**](https://simpli-web.app.link/e/SuNdvU48m3b)
+- [**Introduction to Graphic Design; Basics of UI/UX**](https://simpli-web.app.link/e/z3ICDh88m3b)
+- [**ReactJS Projects For Beginners**](https://simpli-web.app.link/e/8FSvWTe9m3b)
 
 ---
 
@@ -36,6 +40,8 @@ I'm **Juan Dela Cruz**, with a flair for coding and database management skills. 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 ### Databases
